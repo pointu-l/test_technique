@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstname": "Sean Maxwell",
+      "lastname": "John Smith",
+      "gender": true,
+      "id": 159123164363
+    },
+    {
+      "firstname": "Sean Maxwell",
+      "lastname": "Gordan Freeman",
+      "gender": false,
+      "id": 327447872835
+    },
+    {
+      "firstname": "Sean Maxwell",
+      "lastname": "John Smith",
+      "gender": true,
+      "id": 357437875835
+    }
+  ]
+}
